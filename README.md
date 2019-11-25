@@ -99,7 +99,7 @@ cd /opt
 sudo mkdir arm
 sudo chown arm:arm arm
 sudo chmod 775 arm
-sudo git clone https://github.com/automatic-ripping-machine/automatic-ripping-machine.git arm
+sudo git clone https://github.com/onPointTracking/automatic-ripping-machine.git arm
 cd arm
 # TODO: Remove below line before merging to master
 git checkout v2_master
